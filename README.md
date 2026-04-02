@@ -13,10 +13,10 @@ Inspirado no Cordel Moderno, o projeto busca unir poesia e tecnologia em uma exp
 - Tipografia estilizada
 - Uso de imagens de fundo
 
+## 🌐 Acesse o projeto
+https://jhonatanresende.github.io/Projeto-Cordel/
+
 ## 📚 Aprendizados
 - Como aplicar efeito Parallax com CSS
 - Uso de background-attachment
 - Organização de layout com boas práticas
-
-## 🌐 Acesse o projeto
-https://jhonatanresende.github.io/Projeto-Cordel/
